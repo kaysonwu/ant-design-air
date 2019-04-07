@@ -4,12 +4,18 @@
   "version": "1.0.0",
   "keywords": ["ant design", "css"],
   "author": "Kayson Wu",
-  "scripts": {
-    "test": "grunt test"
-  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/kaysonwu/ant-design-air.git"
   },
-  "license": "MIT"
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  }
 }
