@@ -1,0 +1,15 @@
+{
+  "name": "ant-design-air",
+  "description": "",
+  "version": "1.0.0",
+  "keywords": ["ant design", "css"],
+  "author": "Kayson Wu",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaysonwu/ant-design-air.git"
+  },
+  "license": "MIT"
+}
